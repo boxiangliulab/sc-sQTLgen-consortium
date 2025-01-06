@@ -1,4 +1,4 @@
-# Single-cell sQTL: workflow (2-stage) junction calling 
+# Single-cell sQTL workflow (2-stage): junction calling 
 
 Updated 16 Dec 2024
 
