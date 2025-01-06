@@ -88,7 +88,7 @@ done
 
 ### Cluster intron junctions
 
-\${ct} \# as defined in the meta file
+\${ct} \# cell type, as defined in the meta file
 
 \${cohort} \# define the name of your cohort with an easily recognizable 
 
